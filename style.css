@@ -141,7 +141,7 @@ a.ancora{
 div.video{ background-color: var(--cor5);
         margin: 0px -20px  30px -20px;
         padding-bottom: 58%;
-        position: ;
+        position: relative;
            
 }
 div.video > iframe {
